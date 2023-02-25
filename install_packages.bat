@@ -10,3 +10,4 @@ pip install matplotlib
 pip install jupyter_contrib_nbextensions
 pip install openpyxl
 jupyter contrib nbextension install --user
+pip install seaborn
